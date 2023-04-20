@@ -3,12 +3,12 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="https://images.prismic.io/axerve/5f7deac7-235e-4d48-9131-8de68711bc8e_Blockchain%20-%20Blog.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max">
 </picture> <br>
 
 
- 🔭 I’m currently working on Devaloping a Online Voting System Using the Blockchain Technology
- 🌱 I’m currently learning B.SC. Computer Science
+ 🔭 I’m currently working on Devaloping a Online Voting System Using the Blockchain Technology  <br> <br>
+ 🌱 I’m currently learning B.SC. Computer Science  <br> <br>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
