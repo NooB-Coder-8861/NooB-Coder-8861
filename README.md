@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://images.prismic.io/axerve/5f7deac7-235e-4d48-9131-8de68711bc8e_Blockchain%20-%20Blog.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max">
+ <source media="(prefers-color-scheme: dark)" srcset=""C:\Users\sayan\OneDrive\Desktop\Sol\Blockchain.avif"">
+ <source media="(prefers-color-scheme: light)" srcset=""C:\Users\sayan\OneDrive\Desktop\Sol\Blockchain.avif"">
+ <img alt="YOUR-ALT-TEXT" src="C:\Users\sayan\OneDrive\Desktop\Sol\Blockchain.avif">
 </picture> <br>
 
 
