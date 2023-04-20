@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset=""C:\Users\sayan\OneDrive\Desktop\Sol\Blockchain.avif"">
- <source media="(prefers-color-scheme: light)" srcset=""C:\Users\sayan\OneDrive\Desktop\Sol\Blockchain.avif"">
- <img alt="YOUR-ALT-TEXT" src="C:\Users\sayan\OneDrive\Desktop\Sol\Blockchain.avif">
+ <source media="(prefers-color-scheme: dark)" srcset="images/Blockchain.avif">
+ <source media="(prefers-color-scheme: light)" srcset="images/Blockchain.avif">
+ <img alt="YOUR-ALT-TEXT" src="images/Blockchain.avif">
 </picture> <br>
 
 
