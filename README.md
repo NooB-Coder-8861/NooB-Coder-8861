@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Sayantan Das</h1>
 <h3 align="center">A newbie in the field of coding and programming</h3>
-<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcartoon-man-working-laptop_54231732.htm&psig=AOvVaw2p5CRHWDOpxqhEkErHOu4S&ust=1730888745740000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD3uZr9xIkDFQAAAAAdAAAAABAE"  width="400" height="300">
+<img align="right" src="https://img.freepik.com/premium-vector/cartoon-man-working-laptop_835197-5827.jpg?w=740"  width="400" height="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noob-coder-8861&label=Profile%20views&color=0e75b6&style=flat" alt="noob-coder-8861" /> </p>
 
