@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/sayantan8861" target="blank"><img src="https://img.shields.io/twitter/follow/sayantan8861?logo=twitter&style=for-the-badge" alt="sayantan8861" /></a> </p>
 
-- 🔭 I’m currently working on **Online Voting System**
+- 🔭 I’m currently working on **Sigilo Tech**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **sayantan22052002@gmail.com**
 
