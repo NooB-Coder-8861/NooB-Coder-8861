@@ -9,8 +9,6 @@
 <h3 align="center">A newbie in the field of coding and programming</h3>
 <img align="right" src="https://img.freepik.com/premium-vector/cartoon-man-working-laptop_835197-5827.jpg?w=740"  width="400" height="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noob-coder-8861&label=Profile%20views&color=0e75b6&style=flat" alt="noob-coder-8861" /> </p>
-
 <p align="left"> <a href="https://twitter.com/sayantan8861" target="blank"><img src="https://img.shields.io/twitter/follow/sayantan8861?logo=twitter&style=for-the-badge" alt="sayantan8861" /></a> </p>
 
 - 🔭 I’m currently working on **Sigilo Tech**
